@@ -11,4 +11,4 @@ podcast_website/whoosh_index/
 *.toc
 *.mp3
 *.json
-
+.env
